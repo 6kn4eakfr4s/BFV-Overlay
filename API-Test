@@ -1,0 +1,6 @@
+from unit import Unit
+unit = Unit()
+result = unit.getHackScore("JRock_2417")
+print(result)
+# print(type(result))
+# print(result["hack_score"])
